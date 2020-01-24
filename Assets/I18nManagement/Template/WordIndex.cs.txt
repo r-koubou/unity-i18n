@@ -1,0 +1,23 @@
+﻿/* =========================================================================
+
+    WordIndex.cs
+
+    Generated on ##DATETIME##
+
+   ======================================================================== */
+
+// Suppress compiler warnings
+#pragma warning disable 0219
+#pragma warning disable 0414
+
+namespace RK.I18n
+{
+    /**
+     * 自動生成された単語リストへの添字定義
+     * @see Language#wordList
+     */
+    public enum WordIndex
+    {
+##BODY##
+    }
+}
